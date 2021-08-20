@@ -1,5 +1,5 @@
-# Alpha Scorpii
+# alpha-scorpii-api-chrome-extension
 
-Extensão para Google Chrome que mostra periodicamente uma pergunta para você responder. Estas perguntas são adicionadas por professores que as criam para ajudar seus alunos a estudar para provas. Conforme os alunos respondem as perguntas, uma pontuação é acumulada.
+Extension for Google Chrome that periodically displays a question for you to answer. These questions are added by teachers who create them to help their students study for exams. As students answer the questions, a score is accumulated.
 
-É um app antigo que criei como projeto de conclusão da graduação. Não é o melhor código do mundo, mas é uma proposta bem bacana.
+It's an old app that I created as a graduation project. It's not the best code in the world, but it's a pretty cool proposition.
